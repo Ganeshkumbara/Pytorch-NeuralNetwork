@@ -1,7 +1,6 @@
 # Pytorch-NeuralNetwork
 
-# Objective 1: Train a simple MLP neural network to classify (3-class) the 4-dimension dataset cluster 
-  ![image](https://github.com/user-attachments/assets/d5a6bac0-6379-4ae0-87e3-33d80b317328)
+# Objective 1: Train a simple MLP neural network to classify (3-class) the 4-dimension dataset cluster ![image](https://github.com/user-attachments/assets/d5a6bac0-6379-4ae0-87e3-33d80b317328)
 
 ## Neural Network
   * Defining your neural network architecture
