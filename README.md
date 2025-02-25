@@ -22,4 +22,4 @@
   * Backpropagation: MLPs are trained using a method called backpropagation, which adjusts the weights of connections based on the error of the output compared to the expected result.
   * Applications: MLPs are used for various tasks, including classification, regression, and function approximation in fields like image recognition, natural language processing, and more.
 
-# PyTorch: Training a Convolutional Neural Network (CNN)
+
